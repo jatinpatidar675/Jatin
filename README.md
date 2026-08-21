@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jatin Patidar
 
-### 🚀 [Your Role / Target Role] | [Primary Technology] | Problem Solver
+### 🚀 [SOFTWARE DEVELOPER] | [JAVA, PYTHON, HTML, CSS, REACT, JS, SQL, DSA] | Problem Solver
 
 > Building practical, scalable solutions while continuously improving my skills in software development, problem solving, and modern technology.
 
@@ -8,7 +8,7 @@
   <a href="https://github.com/jatinpatidar675">
     <img src="https://img.shields.io/badge/GitHub-jatinpatidar675-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="[LINKEDIN_URL]">
+  <a href="[https://www.linkedin.com/in/jatin-patidar-b1a90a278]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="[PORTFOLIO_URL]">
@@ -23,12 +23,12 @@
 I'm **Jatin Patidar**, a developer passionate about building useful software and solving real-world problems through technology.
 
 * 🔭 Currently working on **[CURRENT PROJECT / AREA]**
-* 🌱 Currently learning **[TECHNOLOGIES]**
-* 💡 Interested in **Software Development, AI/ML, Data Analytics & System Design**
+* 🌱 Currently learning **[JAVA FULL STACK]**
+* 💡 Interested in **Software Development**
 * 🧩 Enjoy solving **DSA and programming problems**
 * 🚀 Interested in building **production-ready applications**
 * 🤝 Open to **internships, full-time opportunities and collaborative projects**
-* 📍 Based in **[LOCATION]**
+* 📍 Based in **[INDORE]**
 
 ---
 
@@ -54,7 +54,7 @@ I'm **Jatin Patidar**, a developer passionate about building useful software and
 
 ### Development
 
-`[React]` `[Node.js]` `[Express]` `[Spring Boot]`
+`[React]` `[Spring Boot]`
 
 ### Data / AI
 
@@ -62,11 +62,11 @@ I'm **Jatin Patidar**, a developer passionate about building useful software and
 
 ### Databases
 
-`[MySQL]` `[PostgreSQL]` `[MongoDB]`
+`[MySQL]` `[MongoDB]`
 
 ### Tools & Platforms
 
-`Git` `GitHub` `Docker` `VS Code` `[AWS]` `[Linux]`
+`Git` `GitHub` `VS Code`
 
 > Replace the technologies above with the technologies you actually know.
 
@@ -178,11 +178,9 @@ Communication         ███████████████░░░░�
 
 ## 🎓 Education
 
-**[Degree / Course]**
-[College / University] · [Year]
+**[B.Tech - CSE]**
+[Shri Vaishnav Vidyapeeth Vishwavidyalaya] · [2026]
 
-**Relevant Areas:**
-`[Subject]` · `[Subject]` · `[Subject]` · `[Subject]`
 
 ---
 
@@ -209,13 +207,13 @@ My current focus is on becoming a stronger engineer by combining **problem-solvi
 
 I'm always interested in discussing:
 
-**Software Engineering • AI/ML • Data Analytics • Open Source • Projects • Technology**
+**Software Engineering • Open Source • Projects • Technology**
 
 <p align="center">
   <a href="https://github.com/jatinpatidar675">GitHub</a> •
-  <a href="[LINKEDIN_URL]">LinkedIn</a> •
+  <a href="[https://www.linkedin.com/in/jatin-patidar-b1a90a278]">LinkedIn</a> •
   <a href="[PORTFOLIO_URL]">Portfolio</a> •
-  <a href="mailto:[EMAIL]">Email</a>
+  <a href="mailto:[jatinpatidar675@gmail.com]">Email</a>
 </p>
 
 ---
