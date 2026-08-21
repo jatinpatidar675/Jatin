@@ -8,7 +8,7 @@
   <a href="https://github.com/jatinpatidar675">
     <img src="https://img.shields.io/badge/GitHub-jatinpatidar675-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="[https://www.linkedin.com/in/jatin-patidar-b1a90a278?]">
+  <a href="[https://www.linkedin.com/in/jatin-patidar-b1a90a278?utm_source=share_via&utm_content=profile&utm_medium=member_android]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="[PORTFOLIO_URL]">
@@ -211,7 +211,7 @@ I'm always interested in discussing:
 
 <p align="center">
   <a href="https://github.com/jatinpatidar675">GitHub</a> •
-  <a href="[https://www.linkedin.com/in/jatin-patidar-b1a90a278?]">LinkedIn</a> •
+  <a href="[https://www.linkedin.com/in/jatin-patidar-b1a90a278?utm_source=share_via&utm_content=profile&utm_medium=member_android]">LinkedIn</a> •
   <a href="[PORTFOLIO_URL]">Portfolio</a> •
   <a href="mailto:[jatinpatidar675@gmail.com]">Email</a>
 </p>
